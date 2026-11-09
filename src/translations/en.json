@@ -1,0 +1,73 @@
+{
+  "common": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "about": "About",
+    "contacts": "Contacts",
+    "cart": "Cart",
+    "search": "Search",
+    "language": "Language",
+    "delivery": "Delivery"
+  },
+  "home": {
+    "title": "Premium Vaping Experience",
+    "description": "Discover premium e-liquids and modern devices.",
+    "shopNow": "Explore Catalog"
+  },
+  "products": {
+    "boroBoro": {
+      "description": "A classic tobacco profile with warm honey sweetness and subtle woody notes."
+    },
+    "cola": {
+      "description": "A familiar cola-inspired flavour with balanced sweetness, refreshing soda notes and a hint of caramel."
+    },
+    "energyDrink": {
+      "description": "An energy drink-inspired flavour combining sweet, slightly tangy and refreshing notes."
+    },
+    "espresso": {
+      "description": "A rich espresso flavour with bold coffee notes and a gently bitter finish."
+    },
+    "frozenFruits": {
+      "description": "A chilled berry blend of blueberry, blackberry and wild strawberry with an icy cooling finish."
+    },
+    "pomegranate": {
+      "description": "A ripe pomegranate flavour combining natural sweetness with a gently tart finish."
+    },
+    "honeyDew": {
+      "description": "A juicy ripe melon flavour with natural sweetness and a fresh, mellow character."
+    },
+    "kubanito": {
+      "description": "A Cuban cigar-inspired tobacco flavour complemented by rich cocoa and warm caramel notes."
+    },
+    "latakia": {
+      "description": "A distinctive tobacco flavour with deep smoky, woody and peppery notes."
+    },
+    "mint": {
+      "description": "A fresh mint flavour with a pronounced menthol cooling sensation."
+    },
+    "mojito": {
+      "description": "A mojito-inspired combination of lime, fresh mint and subtle rum-like sweetness."
+    },
+    "ry4": {
+      "description": "A classic tobacco blend balanced with creamy vanilla and warm caramel notes."
+    },
+    "satisfaction": {
+      "description": "A balanced combination of refreshing lemon, sweet cherry and classic tobacco notes."
+    },
+    "strawberry": {
+      "description": "A sweet strawberry flavour with a fresh, authentic and fruity character."
+    },
+    "tropicalFruits": {
+      "description": "An exotic blend of passion fruit, banana, pineapple, kiwi and papaya."
+    },
+    "vanilla": {
+      "description": "A smooth, creamy vanilla flavour with warm sweetness and a soft aromatic finish."
+    },
+    "virginia": {
+      "description": "A classic Virginia tobacco flavour with a rich, smooth and aromatic tobacco character."
+    },
+    "watermelon": {
+      "description": "A ripe watermelon flavour with juicy sweetness and a light, refreshing finish."
+    }
+  }
+}

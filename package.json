@@ -1,0 +1,30 @@
+{
+  "name": "vape-shop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0",
+    "embla-carousel-autoplay": "^8.6.0",
+    "embla-carousel-react": "^8.6.0",
+    "libphonenumber-js": "^1.13.15",
+    "lucide-react": "^1.66.0",
+    "next": "16.4.3",
+    "next-intl": "^4.14.9",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "zustand": "^5.0.16"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "prettier": "^3.9.10",
+    "tailwindcss": "^4"
+  }
+}
